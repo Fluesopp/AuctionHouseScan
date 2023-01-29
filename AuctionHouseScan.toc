@@ -1,0 +1,11 @@
+﻿## Interface: 20502
+## Title: Auction House Scan
+## Version: 1.1.1
+## Notes: Scan the auction house for item prices 
+## SavedVariables: ASItemList, ASLastScan, AsVendorList
+
+Functions.lua
+Core.lua
+EventHandler.lua
+Tooltip.lua
+Ui.lua
